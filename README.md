@@ -2,7 +2,11 @@
 *Machine Learning Engineer Nanodegree - Udacity Program*
 
 ## Project Overview
-This project deploys a dog breed classifier that take a user-input image and perform classification based-on pre-trained CNN models (VGG-16, Inception-v3, Resnet-50) provided by Pytorch.
+This project deploys a dog breed classifier that take a user-input image and perform classification based-on pre-trained CNN models (VGG-16, Inception-v3, Resnet-50) provided by Pytorch. 
+
+Achieved accuracy: 83%
+
+For more information, please refer to the proposal the the notebooks (including data exploration and model traning)
 
 ## Installation
 ```
